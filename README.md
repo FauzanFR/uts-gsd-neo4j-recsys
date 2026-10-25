@@ -2,7 +2,7 @@
 
       Nama  : Fauzan Rafingudin  
       NIM   : 24031554111  
-      Kelas : 2024D  
+      Kelas : 2024B  
 
 ---
   
